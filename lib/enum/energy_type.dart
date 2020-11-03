@@ -1,0 +1,3 @@
+enum EnergyType{
+  HEAT, BATTERY, ELECTRIC, ATOMIC
+}

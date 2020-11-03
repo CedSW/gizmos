@@ -1,0 +1,3 @@
+enum GizmoType {
+  UPGRADE, CONVERTER, PICKER, FILER, BUILDER
+}
